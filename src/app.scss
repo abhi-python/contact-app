@@ -1,0 +1,38 @@
+
+@mixin media($width){
+    @media only screen and (max-width: $width){
+        display: flex;
+    }
+  }
+.contact-row{
+    margin-bottom: 20px;
+    display: flex;
+    &.justify-content-space-between{
+        justify-content: space-between;
+    }
+    &.align-center{
+        align-items: center;
+    }
+    h2{
+        margin-bottom: 0;
+    }
+    @include media(767px);
+    @include media(1200px);
+  }
+  .main-item{
+    display: flex !important;
+  }
+  .item-style{
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+    flex: 1;
+    gap: 20px;
+  }
+  .edit-main-item{
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  

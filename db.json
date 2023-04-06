@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "id": "1680543946079",
+      "name": "Abhilash",
+      "email": "abhilash.saini1@gmail.com"
+    },
+    {
+      "id": "1680578187638",
+      "name": "Rohan",
+      "email": "rohan@gmail.com"
+    },
+    {
+      "id": "1680584339827",
+      "name": "Brad",
+      "email": "brad@outlook.com"
+    },
+    {
+      "id": "1680590977663",
+      "name": "rohan",
+      "email": "rohan@gmail.com"
+    },
+    {
+      "id": "1680602311025",
+      "name": "Aman",
+      "email": "aman@yahoo.com"
+    },
+    {
+      "id": "1680608556413",
+      "name": "Adi",
+      "email": "adi@gmail.com"
+    },
+    {
+      "id": "1680608628706",
+      "name": "Aki",
+      "email": "aki10.10sharma@gmail.com"
+    },
+    {
+      "id": "1680610422197",
+      "name": "Mohan",
+      "email": "mohan@gmail.com"
+    },
+    {
+      "id": "1680634288193",
+      "name": "Anupam",
+      "email": "anupam@gmail.com"
+    },
+    {
+      "id": "1680790479405",
+      "name": "Tulsi",
+      "email": "tulsisingh8392@gmail.com"
+    }
+  ]
+}
